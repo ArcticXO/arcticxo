@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcticxo
 - 👀 I’m interested in Computer Science & Cybersecurity
-- 🌱 I’m currently learning Computer Science Undergraduate @ Aston Uni.
+- 🌱 I’m currently studying Computer Science @ Aston Uni.
 - 💞️ I’m looking to collaborate on Java related projects
 - 📫 How to reach me 220207047@aston.ac.uk & alabdullah.ali@hotmail.com
 

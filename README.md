@@ -18,9 +18,15 @@
 
 <section>
  <h2>🛠️ What am I currently working on?</h2>
- <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting)</p>
+ <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting) I've written an article that goes into depth about Swift on my website</p><br><br>
+ <p> lorem iupsim </p><br><br>
 </section>
-
+<section>
+ <h2>Must-Read Gems</h2>
+ <h3>Data Structures</h3>
+ <li>"Code: The Hidden Language of Computer Hardware and Software" by Charles Petzol </li>
+ <br>An excellent book that goes into detail about the way computers interpret code and the decision making 
+</section>
 
 
 <!---

@@ -1,6 +1,7 @@
 <h1 align="center"> Ali Al-Abdullah</h1>
 
 <section> 
+  <h2>About Me</h2>
   <p>
 - 👋 Hey, I'm Ali, a second-year Computer Science student at Aston University, Originally a Mancunian!.
     <br><br>

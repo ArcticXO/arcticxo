@@ -18,7 +18,7 @@
 
 <section>
   <h2>🤝 Connect with me </h2>
- <p>You can get in touch with me using one of the following links below. I'm usually most active on X, so shoot me a message on there for the fastest response</p> 
+ <p>You can get in touch with me using one of the following links below. I'm usually most active on X, so shoot me a DM for the fastest response</p> 
   <div style="padding: 20px; text-align: left;">
     <ul>
       <li><a href="https://www.linkedin.com/in/ali-al-abdullah-1b4352212/" target="_blank">🔗 LinkedIn</a></li>
@@ -34,7 +34,7 @@
 <section>
  <h2>🛠️ What am I currently working on?</h2>
  <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting) I've written an article that goes into depth about Swift on my website</p><br><br>
- <p> lorem iupsim </p>
+
 </section>
 <section>
  <h2>📚Must-Read Gems</h2>

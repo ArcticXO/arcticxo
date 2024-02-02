@@ -16,13 +16,15 @@
 
 </section>
 
-<section align="center">
+<section>
   <h2>🤝 Connect with me </h2>
   <div style="padding: 20px; text-align: left;">
-    - [LinkedIn](https://www.linkedin.com/in/your_username)
-    - [Twitter](https://twitter.com/your_username)
-    - [Email](mailto:your_email@example.com)
-    - [Portfolio](https://www.your_portfolio.com)
+    <ul>
+      <li><a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a></li>
+      <li><a href="https://twitter.com/your_username" target="_blank">Twitter</a></li>
+      <li><a href="mailto:your_email@example.com">Email</a></li>
+      <li><a href="https://www.your_portfolio.com" target="_blank">Portfolio</a></li>
+    </ul>
   </div>
 </section>
 

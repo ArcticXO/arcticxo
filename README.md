@@ -16,7 +16,7 @@
 
 </section>
 
-<section style="text-align: center;">
+<section align="center">
   <h2>🤝 Connect with me </h2>
   <div style="padding: 20px;">
     <a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a>
@@ -25,6 +25,7 @@
     <a href="https://www.your_portfolio.com" target="_blank">Portfolio</a>
   </div>
 </section>
+
 
 <section>
  <h2>🛠️ What am I currently working on?</h2>

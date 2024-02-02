@@ -1,7 +1,7 @@
 <h1 align="center"> Ali Al-Abdullah</h1>
 
 <section> 
- <summary><h2>About Me</h2></summary> 
+ <summary><h2>👨🏽‍💻 About Me</h2></summary> 
   <p>
 - 👋 Hey, I'm Ali, a second-year Computer Science student at Aston University. I'm really into Software development.
     <br><br>
@@ -17,8 +17,8 @@
 </section>
 
 <section>
- <h2>What am I currently working on?</h2>
- <p> currently i have been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting)</p>
+ <h2>🛠️ What am I currently working on?</h2>
+ <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting)</p>
 </section>
 
 

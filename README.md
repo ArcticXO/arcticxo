@@ -1,12 +1,16 @@
 <h1 align="center"> Ali Al-Abdullah</h1>
 
 <section> 
-- Hey, I’m Ali 👋 <br>
-  
--  I'm currently a Student at Aston university (Unless I havent updated this, oops!)<br>
-- 🌱 I’m currently studying Computer Science @ Aston University<br>
-- 💞️ I’m looking to collaborate on Java and Python related projects<br>
-- 📫 How to reach me Ali@AliAB.me & 220207047@aston.ac.uk<br>
+  <p>
+- 👋 Hey, I'm Ali, a second-year Computer Science student at Aston University, Originally a Mancunian!.
+    <br>
+-  🌟 My passion lies in software development, specifically Python and Java, Where I explore everything from creating user-friendly interfaces to designing efficient backends.
+    <br>
+- 🚀 The world of software development has me hooked! Ready to broaden my horizons, contribute, and network.
+    <br>
+- 💞💻  I’m looking to collaborate on Java and Python related projects
+    <br>
+    <br>
 </p>
 
 </section>

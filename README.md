@@ -24,11 +24,21 @@
 <section>
  <h2>Must-Read Gems</h2>
  <h3>Data Structures</h3>
- <li><b>"Code: The Hidden Language of Computer Hardware and Software" by Charles Petzol </b></li>
- An excellent book that goes into detail about the way computers interpret code and the decision making 
+ <li><b>"Code: The Hidden Language of Computer Hardware and Software" </b> Charles Petzol </b></li>
+ An excellent book that goes into detail about the way computers interpret code and the decision making. 
 
- <li></li>
+<li><b>"The Pragmatic Programmer"</b> Andrew Hunt and David Thomas</li>
+ Great read. Demonstrates the benefits of versatile code and illustrates programming concepts using real world examples. 
+
+  <h3>Personal Growth</h3>
+ <li><b>"Can't Hurt Me: Master Your Mind and Defy the Odds"</b> David Goggins</li>
+ A powerful book that can trigger growth within anyone. Challenges you to embrace discomfort and unlock your full potential.
+
+<li><b>"Atomic Habits"</b> by james clear</li>
+ Great read. Demonstrates the benefits of versatile code and illustrates programming concepts using real world examples. 
 </section>
+
+
 
 
 <!---

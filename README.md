@@ -25,7 +25,7 @@
       <li><a href="https://aliab.me" target="_blank">🌐 My Portfolio</a></li>
     </ul>
   </div>
-  <br><br>
+  <br>
 </section>
 
 <section>

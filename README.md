@@ -18,7 +18,7 @@
 
 <section>
  <h2>What am I currently working on?</h2>
- <p> currently i have been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration(JSON formatting)</p>
+ <p> currently i have been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting)</p>
 </section>
 
 

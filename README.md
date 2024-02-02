@@ -25,6 +25,7 @@
     <a href="mailto:your_email@example.com" style="margin-right: 20px;">Email</a>
     <a href="https://www.your_portfolio.com" target="_blank">Portfolio</a>
   </div>
+ <br><br>
 </section>
 
 

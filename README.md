@@ -21,10 +21,10 @@
  <p>You can get in touch with me using one of the following links below. I'm usually most active on X, so shoot me a message on there for the fastest response</p> 
   <div style="padding: 20px; text-align: left;">
     <ul>
-      <li><a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a></li>
-      <li><a href="https://twitter.com/your_username" target="_blank">X (Twitter)</a></li>
-      <li><a href="mailto:your_email@example.com">Email</a></li>
-      <li><a href="https://www.your_portfolio.com" target="_blank">Portfolio</a></li>
+      <li><a href="https://www.linkedin.com/in/ali-al-abdullah-1b4352212/" target="_blank">LinkedIn</a></li>
+      <li><a href="https://twitter.com/arcticxo" target="_blank">X (Formerly Twitter)</a></li>
+      <li><a href="mailto:alabdullah.ali@hotmail.com">Email</a></li>
+      <li><a href="https://aliab.me" target="_blank">My Website</a></li>
     </ul>
   </div>
 </section>

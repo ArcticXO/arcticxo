@@ -27,12 +27,13 @@
       <li><a href="https://aliab.me" target="_blank">🌐 My Portfolio</a></li>
     </ul>
   </div>
+ <br><br>
 </section>
 
 
 
 <section>
- <h2>🛠️ What am I currently working on?</h2><br><br>
+ <h2>🛠️ What am I currently working on?</h2><br>
  <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting) I've written an article that goes into depth about Swift on my website</p><br><br>
 
 </section>

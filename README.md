@@ -32,7 +32,7 @@
 
 
 <section>
- <h2>🛠️ What am I currently working on?</h2>
+ <h2>🛠️ What am I currently working on?</h2><br><br>
  <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting) I've written an article that goes into depth about Swift on my website</p><br><br>
 
 </section>

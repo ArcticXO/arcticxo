@@ -9,7 +9,7 @@
     <br><br>
 - 🚀 I try to give back to the community when possible.  My personal<a href="aliab.me"> website</a> is where I publish short articles about what I'm currently working on, or nifty little tips and tricks!😊
     <br><br>
-- 💞💻  I’m looking to collaborate on Java and Python related projects
+- 💞💻  I’m looking to collaborate on Java and Python related projects, feel free to get in touch!
     <br>
     <br>
 </p>

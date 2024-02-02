@@ -22,7 +22,7 @@
  <p> lorem iupsim </p><br><br>
 </section>
 <section>
- <h2>Must-Read Gems</h2>
+ <h2>📚Must-Read Gems</h2>
  <h4>Data Structures</h4>
  <li><b>"Code: The Hidden Language of Computer Hardware and Software" </b> Charles Petzol </b></li>
  An excellent book that goes into detail about the way computers interpret code and the decision making. 

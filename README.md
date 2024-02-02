@@ -25,7 +25,7 @@
  <h2>Must-Read Gems</h2>
  <h3>Data Structures</h3>
  <li>"Code: The Hidden Language of Computer Hardware and Software" by Charles Petzol </li>
- <br>An excellent book that goes into detail about the way computers interpret code and the decision making 
+ An excellent book that goes into detail about the way computers interpret code and the decision making 
 </section>
 
 

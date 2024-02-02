@@ -26,6 +26,8 @@
  <h4>Data Structures</h4>
  <li><b>"Code: The Hidden Language of Computer Hardware and Software" </b> Charles Petzol </b></li>
  An excellent book that goes into detail about the way computers interpret code and the decision making. 
+ <br>
+ <br>
 
 <li><b>"The Pragmatic Programmer"</b> Andrew Hunt and David Thomas</li>
  Great read. Demonstrates the benefits of versatile code and illustrates programming concepts using real world examples. 

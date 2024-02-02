@@ -19,7 +19,7 @@
 <section>
  <h2>🤝 Connect with me </h2>
 
-   <div style="text-align: center; padding: 15%;">
+   <div style="text-align: center; padding: 80%;">
     <a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a>
     <a href="https://twitter.com/your_username" target="_blank">Twitter</a>
     <a href="mailto:your_email@example.com">Email</a>

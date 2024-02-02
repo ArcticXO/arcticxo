@@ -17,9 +17,19 @@
 </section>
 
 <section>
+ <h2>🤝 Connect with me </h2>
+ <p>
+    <a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a>
+    <a href="https://twitter.com/your_username" target="_blank">Twitter</a>
+    <a href="mailto:your_email@example.com">Email</a>
+    <a href="https://www.your_portfolio.com" target="_blank">Portfolio</a>
+</p><br><br>
+ <p> lorem iupsim </p>
+</section>
+<section>
  <h2>🛠️ What am I currently working on?</h2>
  <p> Recently, I've been dabbling into full stack development with Swift and SwiftUI. More specifically, API calls and intergration (JSON response formatting) I've written an article that goes into depth about Swift on my website</p><br><br>
- <p> lorem iupsim </p><br><br>
+ <p> lorem iupsim </p>
 </section>
 <section>
  <h2>📚Must-Read Gems</h2>

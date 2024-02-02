@@ -23,7 +23,7 @@
 </section>
 <section>
  <h2>Must-Read Gems</h2>
- <h3>Data Structures</h3>
+ <h4>Data Structures</h4>
  <li><b>"Code: The Hidden Language of Computer Hardware and Software" </b> Charles Petzol </b></li>
  An excellent book that goes into detail about the way computers interpret code and the decision making. 
 
@@ -31,13 +31,13 @@
  Great read. Demonstrates the benefits of versatile code and illustrates programming concepts using real world examples. 
   <br> <br>
 
-  <h3>Personal Growth</h3>
+  <h4>Personal Growth</h4>
  <li><b>"Can't Hurt Me: Master Your Mind and Defy the Odds"</b> David Goggins</li>
  A powerful book that can trigger growth within anyone. Challenges you to embrace discomfort and unlock your full potential.
  <br> <br>
 
 <li><b>"Atomic Habits"</b> by james clear</li>
- Great read. Demonstrates the benefits of versatile code and illustrates programming concepts using real world examples. 
+ Provides actionable insights on the power of tiny changes, transforming your habits to create remarkable results. 
 
   <br> <br>
 </section>

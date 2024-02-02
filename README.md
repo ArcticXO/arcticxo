@@ -1,4 +1,4 @@
-<h1 align="center">Ali Al-Abdullah</h1>
+<h1 align="center"><b>Ali Al-Abdullah</b></h1>
 
 <section> 
   <summary><h2>👨🏽‍💻 About Me</h2></summary> 

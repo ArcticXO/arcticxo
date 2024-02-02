@@ -1,4 +1,4 @@
-<h1 align="center"> Ali Al Abdullah</h1>
+<h1 align="center"> Ali Al-Abdullah</h1>
 
 <section> 
 - Hi, I’m Ali 👋 <br>

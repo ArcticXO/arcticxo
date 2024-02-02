@@ -18,7 +18,7 @@
 
 <section>
   <h2>🤝 Connect with me </h2>
- <p>You can get in touch with me using one of the following links below. I'm usually most active on X, so shoot me a message on there for the fastest response</p> <br>
+ <p>You can get in touch with me using one of the following links below. I'm usually most active on X, so shoot me a message on there for the fastest response</p> 
   <div style="padding: 20px; text-align: left;">
     <ul>
       <li><a href="https://www.linkedin.com/in/your_username" target="_blank">LinkedIn</a></li>

@@ -18,7 +18,7 @@
 
 <section align="center">
   <h2>🤝 Connect with me </h2>
- <p>The easiest way to get in touch with me is using one of the follwing. Easiest way is to shoot me a DM on twitter for the fastest response! </p>
+ <p align="left">The easiest way to get in touch with me is using one of the follwing. Easiest way is to shoot me a DM on twitter for the fastest response! </p>
   <div style="padding: 20px;">
     <a href="https://www.linkedin.com/in/your_username" target="_blank" style="margin-right: 20px;">LinkedIn</a>
     <a href="https://twitter.com/your_username" target="_blank" style="margin-right: 20px;">Twitter</a>

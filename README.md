@@ -3,7 +3,7 @@
 <section> 
   <summary><h2>👨🏽‍💻 About Me</h2></summary> 
   <p>
-    - 👋 Hey, I'm Ali, a second-year Computer Science student at Aston University. I'm really into Software development.
+    - 👋 Hey, I'm Ali, a Third-year Computer Science student at Aston University. I'm really into Software development.
     <br><br>
     - 🌟 My passion lies specifically in Python and Java, where I explore everything from creating pretty frontend interfaces to complex maths programs.
     <br><br>
